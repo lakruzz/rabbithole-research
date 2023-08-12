@@ -11,6 +11,6 @@ In summary: Citizen development is a way of empowering non-IT employees to creat
 ---
 
 Source: Conversation with Bing, 12/08/2023
-[^1]: (PMI Citizen Developer | PMI Citizen Developer.)[https://www.pmi.org/citizen-developer]
-[^2]: (What Is Citizen Development? The Low-Code/No-Code Revolution ....)[https://www.forbes.com/sites/pmi/2020/12/01/what-is-citizen-development-the-low-codeno-code-revolution-organizations-should-go-all-in-on/.]
-[^3]: (What is Citizen Development? | Overview, Skills, Benefits ... - Kissflow.)[https://kissflow.com/citizen-development/overview-of-citizen-development/]
+[^1]: [PMI Citizen Developer | PMI Citizen Developer.](https://www.pmi.org/citizen-developer)
+[^2]: [What Is Citizen Development? The Low-Code/No-Code Revolution ....](https://www.forbes.com/sites/pmi/2020/12/01/what-is-citizen-development-the-low-codeno-code-revolution-organizations-should-go-all-in-on/.)
+[^3]: [What is Citizen Development? | Overview, Skills, Benefits ... - Kissflow.](https://kissflow.com/citizen-development/overview-of-citizen-development/)
